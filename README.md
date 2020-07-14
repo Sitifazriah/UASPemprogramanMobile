@@ -1,6 +1,6 @@
 # UASPemprogramanMobile
 
-##Screenshot running aplikasi
+## Screenshot running aplikasi
 
 ![WhatsApp Image 2020-07-14 at 20 10 03](https://user-images.githubusercontent.com/37317720/87430437-6b95a600-c60f-11ea-96a7-563db80d9ca9.jpeg)
 
@@ -16,9 +16,9 @@
 
 ![WhatsApp Image 2020-07-14 at 20 10 04](https://user-images.githubusercontent.com/37317720/87431345-b06e0c80-c610-11ea-9e4b-fdb3f389642d.jpeg)
 
-##Video penjelasan pembuatan aplikasi
+## Video penjelasan pembuatan aplikasi
 
-#Video demo running aplikasi
+## Video demo running aplikasi
 
 
 
