@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="JKlist">
+        <item>@string/JK1</item>
+        <item>@string/JK2</item>
+    </string-array>
+</resources>
